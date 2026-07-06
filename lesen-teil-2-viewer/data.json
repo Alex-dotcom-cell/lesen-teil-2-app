@@ -1,0 +1,404 @@
+[
+  {
+    "title": "Lesen Teil 2. Text 1 (Variante №1-1)",
+    "text": [
+      {
+        "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+        "ru": "Папка с информацией для новых сотрудников."
+      },
+      {
+        "de": "Zugangskontrolle und Zeiterfassung.",
+        "ru": "Контроль доступа и учёт рабочего времени."
+      }
+    ],
+    "tasks": [
+      {
+        "type": "truefalse",
+        "number": 6,
+        "question_de": "Der Firmenausweis hat neben der Arbeitszeiterfassung auch andere Funktionen.",
+        "question_ru": "Служебное удостоверение, помимо учёта рабочего времени, имеет и другие функции.",
+        "answer": "richtig"
+      },
+      {
+        "type": "abc",
+        "number": 7,
+        "question_de": "Überstunden",
+        "question_ru": "Сверхурочные часы.",
+        "options": {
+          "a": {
+            "de": "können online eingesehen werden.",
+            "ru": "Их можно просматривать онлайн."
+          },
+          "b": { "de": "", "ru": "" },
+          "c": { "de": "", "ru": "" }
+        },
+        "answer": "a"
+      }
+    ]
+  },
+
+  {
+    "title": "Lesen Teil 2. Text 1 (Variante №1-2)",
+    "text": [
+      {
+        "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+        "ru": "Папка с информацией для новых сотрудников."
+      },
+      {
+        "de": "Zugangskontrolle und Zeiterfassung.",
+        "ru": "Контроль доступа и учёт рабочего времени."
+      }
+    ],
+    "tasks": [
+      {
+        "type": "truefalse",
+        "number": 6,
+        "question_de": "Ein Firmenausweis kann innerhalb des Firmengebäudes als Zahlungsmittel verwendet werden. / Der Firmenausweis dient als firmeninternes Zahlungsmittel.",
+        "question_ru": "Служебное удостоверение можно использовать как средство оплаты внутри здания компании. / Служебное удостоверение служит внутренним платёжным средством компании.",
+        "answer": "richtig"
+      },
+      {
+        "type": "abc",
+        "number": 7,
+        "question_de": "Das persönliche Arbeitszeitkonto",
+        "question_ru": "Личный счёт учёта рабочего времени.",
+        "options": {
+          "a": { "de": "", "ru": "" },
+          "b": { "de": "", "ru": "" },
+          "c": {
+            "de": "wird täglich aktualisiert.",
+            "ru": "Обновляется ежедневно."
+          }
+        },
+        "answer": "c"
+      }
+    ]
+  },
+
+  {
+    "title": "Lesen Teil 2. Text 1 (Variante №2-1)",
+    "text": [
+      {
+        "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+        "ru": "Папка для новых сотрудников."
+      },
+      {
+        "de": "Arbeitszeit.",
+        "ru": "Рабочее время."
+      }
+    ],
+    "tasks": [
+      {
+        "type": "truefalse",
+        "number": 6,
+        "question_de": "Bei Gleitzeit können Mitarbeitende täglich beliebig viele Stunden arbeiten.",
+        "question_ru": "При гибком графике сотрудники могут работать любое количество часов в день.",
+        "answer": "falsch"
+      },
+      {
+        "type": "abc",
+        "number": 7,
+        "question_de": "Durch Gleitzeit ist es den Mitarbeitenden möglich,",
+        "question_ru": "Благодаря гибкому графику сотрудники могут:",
+        "options": {
+          "a": {
+            "de": "ein Stundenguthaben aufzubauen.",
+            "ru": "накапливать баланс часов."
+          }
+        },
+        "answer": "a"
+      }
+    ]
+  },
+
+  {
+    "title": "Lesen Teil 2 Text 1 (Variante №2-2)",
+    "text": [
+      {
+        "de": "Arbeitszeit.",
+        "ru": "Рабочее время."
+      },
+      {
+        "de": "Die wöchentliche Arbeitszeit beträgt 40 Stunden - bei einem Arbeitstag von acht Stunden, wobei die Pausen nicht mitgerechnet werden.",
+        "ru": "Недельное рабочее время составляет 40 часов — при 8-часовом рабочем дне, перерывы не учитываются."
+      }
+    ],
+    "tasks": [
+      {
+        "type": "truefalse",
+        "number": 6,
+        "question_de": "Die Beschäftigten dürfen mit der Arbeit anfangen, wann sie wollen.",
+        "question_ru": "Сотрудники могут начинать работу когда хотят.",
+        "answer": "falsch"
+      },
+      {
+        "type": "abc",
+        "number": 7,
+        "question_de": "Ergibt sich auf einem Arbeitszeitkonto ein Plus,",
+        "question_ru": "Если на рабочем счёте есть плюс:",
+        "options": {
+          "b": {
+            "de": "ist schnellstmöglich ein Ausgleich zu finden.",
+            "ru": "нужно как можно быстрее найти компенсацию."
+          }
+        },
+        "answer": "b"
+      }
+    ]
+  },
+
+  {
+    "title": "Lesen Teil 2. Text 1 (Variante №3)",
+    "text": [
+      {
+        "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+        "ru": "Папка для новых сотрудников."
+      },
+      {
+        "de": "Urlaub.",
+        "ru": "Отпуск."
+      }
+    ],
+    "tasks": [
+      {
+        "type": "truefalse",
+        "number": 6,
+        "question_de": "Im ersten halben Jahr nach Neueinstellung ist kein Urlaub möglich.",
+        "question_ru": "В первые полгода после трудоустройства отпуск невозможен.",
+        "answer": "falsch"
+      },
+      {
+        "type": "abc",
+        "number": 7,
+        "question_de": "Urlaubsanträge müssen",
+        "question_ru": "Заявки на отпуск должны:",
+        "options": {
+          "c": {
+            "de": "rechtzeitig im Vorjahr gestellt werden.",
+            "ru": "Заявление необходимо подать своевременно в предыдущем году."
+          }
+        },
+        "answer": "c"
+      }
+    ]
+  },
+
+  {
+    "title": "Lesen Teil 2 Text 1 (Variante №4)",
+    "text": [
+      {
+        "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+        "ru": "Папка для новых сотрудников."
+      },
+      {
+        "de": "Regelungen am Arbeitsplatz.",
+        "ru": "Правила на рабочем месте."
+      }
+    ],
+    "tasks": [
+      {
+        "type": "truefalse",
+        "number": 6,
+        "question_de": "Die Regelungen am Arbeitsplatz wurden aktualisiert.",
+        "question_ru": "Правила на рабочем месте были обновлены.",
+        "answer": "richtig"
+      },
+      {
+        "type": "abc",
+        "number": 7,
+        "question_de": "Auf dem Firmengelände: ist bei Gefahr Frau Scholz zu informieren.",
+        "question_ru": "На территории компании: при опасности нужно информировать госпожу Шольц.",
+        "options": {
+          "b": {
+            "de": "ist bei Gefahr Frau Scholz zu informieren.",
+            "ru": "при опасности нужно информировать госпожу Шольц."
+          }
+        },
+        "answer": "b"
+      }
+    ]
+  },
+
+  {
+    "title": "Lesen Teil 2 Text 1 (Variante №5-1)",
+    "text": [
+      {
+        "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+        "ru": "Папка для новых сотрудников."
+      },
+      {
+        "de": "Betriebssport.",
+        "ru": "Корпоративный спорт."
+      }
+    ],
+    "tasks": [
+      {
+        "type": "truefalse",
+        "number": 6,
+        "question_de": "Der Fitnessraum ist während der Arbeitszeit geöffnet.",
+        "question_ru": "Фитнес-зал открыт во время рабочего дня.",
+        "answer": "richtig"
+      },
+      {
+        "type": "abc",
+        "number": 7,
+        "question_de": "Die Mitarbeiter",
+        "question_ru": "Сотрудники:",
+        "options": {
+          "c": {
+            "de": "können das hausinterne Fitnessstudio gratis nutzen.",
+            "ru": "могут бесплатно пользоваться корпоративным фитнес-залом."
+          }
+        },
+        "answer": "c"
+      }
+    ]
+  },
+
+  {
+    "title": "Lesen Teil 2 Text 1 (Variante №5-2)",
+    "text": [
+      {
+        "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+        "ru": "Папка для новых сотрудников."
+      },
+      {
+        "de": "Betriebssport.",
+        "ru": "Корпоративный спорт."
+      }
+    ],
+    "tasks": [
+      {
+        "type": "truefalse",
+        "number": 6,
+        "question_de": "Der Fitnessraum ist während der Arbeitszeit geöffnet.",
+        "question_ru": "Фитнес-зал открыт во время рабочего дня.",
+        "answer": "richtig"
+      },
+      {
+        "type": "abc",
+        "number": 7,
+        "question_de": "Die Mitarbeiter",
+        "question_ru": "Сотрудники:",
+        "options": {
+          "b": {
+            "de": "können das hausinterne Fitnessstudio gratis nutzen.",
+            "ru": "могут бесплатно пользоваться корпоративным фитнес-залом."
+          }
+        },
+        "answer": "b"
+      }
+    ]
+  },
+
+{
+  "title": "Lesen Teil 2 Text 1 (Variante №6-1)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Папка для новых сотрудников."
+    },
+    {
+      "de": "Einführungstag.",
+      "ru": "Вводный день (день ознакомления)."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 6,
+      "question_de": "Alle Mitarbeiter müssen ein paar Mal pro Jahr am Einführungstag teilnehmen.",
+      "question_ru": "Все сотрудники должны несколько раз в год участвовать во вводном дне.",
+      "answer": "falsch"
+    },
+    {
+      "type": "abc",
+      "number": 7,
+      "question_de": "Die Mitarbeiter",
+      "question_ru": "Сотрудники:",
+      "options": {
+        "c": {
+          "de": "werden neue Mitarbeiter über die Regelungen des Sicherheitssystems informieren.",
+          "ru": "новых сотрудников знакомят с правилами системы безопасности."
+        }
+      },
+      "answer": "c"
+    }
+  ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 1 (Variante №6-2)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Папка для новых сотрудников."
+    },
+    {
+      "de": "Einführungstag.",
+      "ru": "Вводный день (день ознакомления)."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 6,
+      "question_de": "Neue Mitarbeiter sollten sich in der Personalabteilung zum Einführungstag anmelden.",
+      "question_ru": "Новые сотрудники должны зарегистрироваться в отделе кадров для участия во вводном дне.",
+      "answer": "falsch"
+    },
+    {
+      "type": "abc",
+      "number": 7,
+      "question_de": "Die neuen Mitarbeiter",
+      "question_ru": "Новые сотрудники:",
+      "options": {
+        "c": {
+          "de": "werden mit den Funktionen des Sicherheitssystems vertraut gemacht.",
+          "ru": "знакомятся с функциями системы безопасности."
+        }
+      },
+      "answer": "c"
+    }
+  ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 1 (Variante №7)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Папка для новых сотрудников."
+    },
+    {
+      "de": "Essen in der Kantine.",
+      "ru": "Питание в столовой."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 6,
+      "question_de": "Die Kantine ist immer geöffnet.",
+      "question_ru": "Столовая всегда открыта.",
+      "answer": "richtig"
+    },
+    {
+      "type": "abc",
+      "number": 7,
+      "question_de": "Die Mitarbeiterinnen und Mitarbeiter",
+      "question_ru": "Сотрудники:",
+      "options": {
+        "b": {
+          "de": "können nachts in der Kantine essen.",
+          "ru": "могут есть в столовой ночью."
+        }
+      },
+      "answer": "b"
+    }
+  ]
+}
+] 
+
+
+
