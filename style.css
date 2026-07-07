@@ -2,105 +2,63 @@ body {
 font-family: Arial;
 background: #f2f2f2;
 margin: 0;
-padding: 30px;
-
-/* 📱 адаптивный базовый текст */
+padding: 20px;
 font-size: 18px;
 line-height: 1.5;
 }
 
 .container {
-max-width: 700px;
+max-width: 800px;
 margin: auto;
 }
 
 h1 {
+font-size: 24px;
 margin-bottom: 10px;
-font-size: 28px;
 }
 
-select {
-padding: 10px;
-margin-bottom: 20px;
-font-size: 16px;
-}
-
-/* карточка */
-.card {
+#text {
 background: white;
-padding: 25px;
-border-radius: 16px;
-box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-
-/* 📱 важно для мобильных */
-max-width: 100%;
+padding: 15px;
+border-radius: 10px;
+margin-bottom: 20px;
 }
 
-#variant {
-font-weight: bold;
+.task {
+background: white;
+padding: 15px;
+border-radius: 10px;
 margin-bottom: 15px;
-color: #444;
-font-size: 16px;
-}
-
-h2 {
-font-size: 22px;
-}
-
-p {
-font-size: 18px;
 }
 
 button {
-padding: 12px 15px;
+padding: 10px 15px;
 margin-top: 10px;
 cursor: pointer;
-font-size: 18px;   /* 📱 крупнее для телефона */
-border-radius: 8px;
+font-size: 16px;
 border: none;
+border-radius: 8px;
 }
 
 button:hover {
 opacity: 0.85;
 }
 
-#answer {
-display: none;
-margin-top: 20px;
-}
-
 .nav {
-margin-top: 20px;
 display: flex;
 gap: 10px;
-flex-wrap: wrap; /* 📱 чтобы на телефоне не ломалось */
+margin-top: 15px;
+flex-wrap: wrap;
 }
 
-/* 📱 мобильная адаптация */
-@media (max-width: 600px) {
-
-body {
-padding: 15px;
-font-size: 17px;
+#openAnswer {
+margin-top: 15px;
+background: #ddd;
 }
 
-.card {
-padding: 18px;
+small {
+color: #666;
+display: block;
+margin-top: 2px;
 }
 
-h1 {
-font-size: 22px;
-}
-
-h2 {
-font-size: 20px;
-}
-
-button {
-width: 100%; /* кнопки друг под другом */
-}
-
-select {
-width: 100%;
-}
-}
