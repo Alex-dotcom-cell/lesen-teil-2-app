@@ -206,8 +206,8 @@
       {
         "type": "abc",
         "number": 7,
-        "question_de": "Auf dem Firmengelände: ist bei Gefahr Frau Scholz zu informieren.",
-        "question_ru": "На территории компании: при опасности нужно информировать госпожу Шольц.",
+        "question_de": "Auf dem Firmengelände.",
+        "question_ru": "На территории компании.",
         "options": {
           "b": {
             "de": "ist bei Gefahr Frau Scholz zu informieren.",
