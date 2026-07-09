@@ -397,8 +397,445 @@
       "answer": "b"
     }
   ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 2 (Variante №1-1)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Памятка для новых сотрудников."
+    },
+    {
+      "de": "Arbeitsunfälle.",
+      "ru": "Несчастные случаи на производстве."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 8,
+      "question_de": "Ein Fahrradunfall auf dem Weg zur Arbeit zählt nicht als Arbeitsunfall.",
+      "question_ru": "Велосипедная авария по дороге на работу не считается несчастным случаем на производстве.",
+      "answer": "falsch"
+    },
+    {
+      "type": "abc",
+      "number": 9,
+      "question_de": "Nach einem Arbeitsunfall",
+      "question_ru": "После несчастного случая на производстве:",
+      "options": {
+        "a": {
+          "de": "",
+          "ru": ""
+        },
+        "b": {
+          "de": "erhalten Arbeitnehmer sechs Wochen volles Gehalt.",
+          "ru": "работники получают полную зарплату в течение шести недель."
+        },
+        "c": {
+          "de": "",
+          "ru": ""
+        }
+      },
+      "answer": "b"
+    }
+  ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 2 (Variante №1-2)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Памятка для новых сотрудников."
+    },
+    {
+      "de": "Arbeitsunfälle.",
+      "ru": "Несчастные случаи на производстве."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 8,
+      "question_de": "Im Falle eines Arbeitsunfalls muss man sofort einen Bericht beim Arbeitgeber einreichen.",
+      "question_ru": "В случае несчастного случая на производстве необходимо сразу подать работодателю отчёт работодателю.",
+      "answer": "falsch"
+    },
+    {
+      "type": "abc",
+      "number": 9,
+      "question_de": "Nach einem Arbeitsunfall",
+      "question_ru": "После несчастного случая на производстве:",
+      "options": {
+        "a": {
+          "de": "",
+          "ru": ""
+        },
+        "b": {
+          "de": "erhalten Arbeitnehmer sechs Wochen volles Gehalt.",
+          "ru": "работники получают полную зарплату в течение шести недель."
+        },
+        "c": {
+          "de": "",
+          "ru": ""
+        }
+      },
+      "answer": "b"
+    }
+  ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 2 (Variante №2)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Памятка для новых сотрудников."
+    },
+    {
+      "de": "Wichtige Hinweise zum Datenschutz.",
+      "ru": "Важная информация о защите персональных данных."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 8,
+      "question_de": "Die Mitarbeiter müssen einmal pro Jahr ein Seminar zum Datenschutz belegen.",
+      "question_ru": "Сотрудники должны проходить семинар по защите данных один раз в год.",
+      "answer": "falsch"
+    },
+    {
+      "type": "abc",
+      "number": 9,
+      "question_de": "Die Teilnahme am Seminar",
+      "question_ru": "Участие в семинаре:",
+      "options": {
+        "a": {
+          "de": "gilt als Arbeitszeit.",
+          "ru": "засчитывается как рабочее время."
+        },
+        "b": {
+          "de": "",
+          "ru": ""
+        },
+        "c": {
+          "de": "",
+          "ru": ""
+        }
+      },
+      "answer": "a"
+    }
+  ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 2 (Variante №3-1)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Памятка для новых сотрудников."
+    },
+    {
+      "de": "Arbeitsunfälle.",
+      "ru": "Несчастные случаи на производстве."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 8,
+      "question_de": "Das Rauchverbot auf dem Firmengelände schließt E-Zigaretten aus.",
+      "question_ru": "Запрет на курение на территории фирмы не распространяется на электронные сигареты.",
+      "answer": "falsch"
+    },
+    {
+      "type": "abc",
+      "number": 9,
+      "question_de": "Raucher",
+      "question_ru": "Курящие сотрудники:",
+      "options": {
+        "a": {
+          "de": "",
+          "ru": ""
+        },
+        "b": {
+          "de": "",
+          "ru": ""
+        },
+        "c": {
+          "de": "sollen die Terrassentür beim Rauchen schließen.",
+          "ru": "должны закрывать дверь на террасу во время курения."
+        }
+      },
+      "answer": "c"
+    }
+  ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 2 (Variante №3-2)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Памятка для новых сотрудников."
+    },
+    {
+      "de": "Arbeitsunfälle.",
+      "ru": "Несчастные случаи на производстве."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 8,
+      "question_de": "Das Rauchverbot auf dem Firmengelände schließt E-Zigaretten ein.",
+      "question_ru": "Запрет на курение на территории фирмы включает электронные сигареты.",
+      "answer": "richtig"
+    },
+    {
+      "type": "abc",
+      "number": 9,
+      "question_de": "Raucher",
+      "question_ru": "Курящие сотрудники:",
+      "options": {
+        "a": {
+          "de": "",
+          "ru": ""
+        },
+        "b": {
+          "de": "müssen ihre Pausenzeiten dokumentieren.",
+          "ru": "должны фиксировать время своих перерывов."
+        },
+        "c": {
+          "de": "",
+          "ru": ""
+        }
+      },
+      "answer": "b"
+    }
+  ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 2 (Variante №3-3)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Памятка для новых сотрудников."
+    },
+    {
+      "de": "Arbeitsunfälle.",
+      "ru": "Несчастные случаи на производстве."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 8,
+      "question_de": "Das Rauchverbot auf dem Firmengelände schließt E-Zigaretten aus.",
+      "question_ru": "Запрет на курение на территории фирмы исключает электронные сигареты.",
+      "answer": "falsch"
+    },
+    {
+      "type": "abc",
+      "number": 9,
+      "question_de": "Raucher",
+      "question_ru": "Курящие сотрудники:",
+      "options": {
+        "a": {
+          "de": "",
+          "ru": ""
+        },
+        "b": {
+          "de": "müssen ihre Pausenzeiten dokumentieren.",
+          "ru": "должны фиксировать время своих перерывов."
+        },
+        "c": {
+          "de": "",
+          "ru": ""
+        }
+      },
+      "answer": "b"
+    }
+  ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 2 (Variante №4)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Памятка для новых сотрудников."
+    },
+    {
+      "de": "Lebensarbeitszeitkonto.",
+      "ru": "Счёт рабочего времени на протяжении трудовой жизни."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 8,
+      "question_de": "Das Unternehmen unterstützt die Mitarbeiter finanziell bei privaten Problemen.",
+      "question_ru": "Компания финансово поддерживает сотрудников при личных проблемах.",
+      "answer": "falsch"
+    },
+    {
+      "type": "abc",
+      "number": 9,
+      "question_de": "Die Mitarbeiter können",
+      "question_ru": "Сотрудники могут:",
+      "options": {
+        "a": {
+          "de": "bei Bedarf von zu Hause aus arbeiten.",
+          "ru": "при необходимости работать из дома."
+        },
+        "b": {
+          "de": "",
+          "ru": ""
+        },
+        "c": {
+          "de": "",
+          "ru": ""
+        }
+      },
+      "answer": "a"
+    }
+  ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 2 (Variante №5)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Памятка для новых сотрудников."
+    },
+    {
+      "de": "Berichtsheft.",
+      "ru": "Отчётный журнал (дневник обучения)."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 8,
+      "question_de": "Auszubildende ohne ordentlich geführtes Berichtsheft dürfen nicht an der Abschlussprüfung teilnehmen.",
+      "question_ru": "Ученики без правильно заполненного отчётного журнала не могут участвовать в выпускном экзамене.",
+      "answer": "richtig"
+    },
+    {
+      "type": "abc",
+      "number": 9,
+      "question_de": "Das Berichtsheft muss",
+      "question_ru": "Отчётный журнал должен:",
+      "options": {
+        "a": {
+          "de": "",
+          "ru": ""
+        },
+        "b": {
+          "de": "dem Ausbildungsleiter regelmäßig gezeigt werden.",
+          "ru": "регулярно показываться руководителю обучения."
+        },
+        "c": {
+          "de": "",
+          "ru": ""
+        }
+      },
+      "answer": "b"
+    }
+  ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 2 (Variante №6)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Памятка для новых сотрудников."
+    },
+    {
+      "de": "Datenschutz.",
+      "ru": "Защита персональных данных."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 8,
+      "question_de": "Die Mitarbeitenden dürfen ihre Passwörter frühestens alle sechs Monate ändern.",
+      "question_ru": "Сотрудники могут менять свои пароли не раньше, чем каждые шесть месяцев.",
+      "answer": "falsch"
+    },
+    {
+      "type": "abc",
+      "number": 9,
+      "question_de": "Vertrauliche Daten",
+      "question_ru": "Конфиденциальные данные:",
+      "options": {
+        "a": {
+          "de": "",
+          "ru": ""
+        },
+        "b": {
+          "de": "müssen nach einer bestimmten Zeit gelöscht werden.",
+          "ru": "должны быть удалены через определённое время."
+        },
+        "c": {
+          "de": "",
+          "ru": ""
+        }
+      },
+      "answer": "b"
+    }
+  ]
+},
+
+{
+  "title": "Lesen Teil 2 Text 2 (Variante №7)",
+  "text": [
+    {
+      "de": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter.",
+      "ru": "Памятка для новых сотрудников."
+    },
+    {
+      "de": "Arbeitsunfall und Berufsgenossenschaft (BG).",
+      "ru": "Несчастный случай на производстве и профессиональная страховая организация (BG)."
+    }
+  ],
+  "tasks": [
+    {
+      "type": "truefalse",
+      "number": 8,
+      "question_de": "Alle Mitarbeitenden müssen für eine Arbeits-Unfallversicherung sorgen.",
+      "question_ru": "Все сотрудники должны самостоятельно позаботиться о страховке от несчастных случаев на работе.",
+      "answer": "falsch"
+    },
+    {
+      "type": "abc",
+      "number": 9,
+      "question_de": "Nach einem Arbeitsunfall",
+      "question_ru": "После несчастного случая на производстве:",
+      "options": {
+        "a": {
+          "de": "muss man sich einem Durchgangsarzt vorstellen.",
+          "ru": "необходимо обратиться к врачу по производственным травмам."
+        },
+        "b": {
+          "de": "",
+          "ru": ""
+        },
+        "c": {
+          "de": "",
+          "ru": ""
+        }
+      },
+      "answer": "a"
+    }
+  ]
 }
-] 
-
-
-
+]
