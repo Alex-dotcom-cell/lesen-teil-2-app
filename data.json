@@ -460,7 +460,7 @@
       "type": "truefalse",
       "number": 8,
       "question_de": "Im Falle eines Arbeitsunfalls muss man sofort einen Bericht beim Arbeitgeber einreichen.",
-      "question_ru": "В случае несчастного случая на производстве необходимо сразу подать работодателю отчёт работодателю.",
+      "question_ru": "В случае несчастного случая на производстве необходимо сразу подать работодателю отчёт.",
       "answer": "falsch"
     },
     {
