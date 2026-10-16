@@ -1,17 +1,43 @@
+
 let data = [];
 let currentTicket = 0;
 let currentTask = 0;
 let answerVisible = false;
 
 fetch("./data.json")
-  .then(res => res.json())
+  .then(res => {
+    if (!res.ok) {
+      throw new Error(`Ошибка загрузки data.json: ${res.status}`);
+    }
+    return res.json();
+  })
   .then(json => {
     data = json;
+
+    if (!Array.isArray(data) || data.length === 0) {
+      throw new Error("data.json не содержит билетов");
+    }
+
     render();
+  })
+  .catch(error => {
+    console.error("Ошибка загрузки приложения:", error);
+    document.getElementById("title").innerText =
+      "Ошибка загрузки заданий. Проверьте data.json.";
   });
 
 function render() {
   const ticket = data[currentTicket];
+
+  if (!ticket || !Array.isArray(ticket.tasks) ||
+      ticket.tasks.length === 0) {
+    document.getElementById("title").innerText =
+      "Нет доступных заданий";
+    document.getElementById("text").innerHTML = "";
+    document.getElementById("taskBox").innerHTML = "";
+    return;
+  }
+
   const task = ticket.tasks[currentTask];
 
   // TITLE
@@ -106,11 +132,23 @@ document.getElementById("prev").onclick = () => {
 };
 
 /* =========================
-   HOME
+   HOME (В НАЧАЛО)
 ========================= */
 document.getElementById("home").onclick = () => {
   currentTicket = 0;
   currentTask = 0;
+  answerVisible = false;
+  render();
+};
+
+/* =========================
+   END (В КОНЕЦ)
+========================= */
+document.getElementById("end").onclick = () => {
+  if (data.length === 0) return;
+
+  currentTicket = data.length - 1;
+  currentTask = data[currentTicket].tasks.length - 1;
   answerVisible = false;
   render();
 };
